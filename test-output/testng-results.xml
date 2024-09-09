@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-07T18:04:08 IST" name="Default suite" finished-at="2024-09-07T18:04:42 IST" duration-ms="33831">
+    <groups>
+    </groups>
+    <test started-at="2024-09-07T18:04:08 IST" name="Default test" finished-at="2024-09-07T18:04:42 IST" duration-ms="33831">
+      <class name="package1.day5Test">
+        <test-method is-config="true" signature="setupChrome()[pri:0, instance:package1.day5Test@54c5a2ff]" started-at="2024-09-07T18:03:37 IST" name="setupChrome" finished-at="2024-09-07T18:04:08 IST" duration-ms="31010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupChrome -->
+        <test-method signature="verifyAccountCreation()[pri:0, instance:package1.day5Test@54c5a2ff]" started-at="2024-09-07T18:04:08 IST" name="verifyAccountCreation" finished-at="2024-09-07T18:04:42 IST" duration-ms="33701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountCreation -->
+      </class> <!-- package1.day5Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

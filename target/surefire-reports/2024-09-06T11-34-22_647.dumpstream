@@ -1,0 +1,5 @@
+# Created at 2024-09-06T11:34:23.636
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Eclispse Folder\Khushboo Eclipse Workspace\EcommerceProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
